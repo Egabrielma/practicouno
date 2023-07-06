@@ -1,0 +1,54 @@
+
+body{
+background-image: url("https://images.pexels.com/photos/2023384/pexels-photo-2023384.jpeg?auto=compress&cs=tinysrgb&w=600");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+}
+.img{
+    width: 100px;
+    height: auto;
+}
+p1{
+ color: rgb(252, 252, 252);
+ background-color: rgba(0, 128, 0, 0.795);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    color: rgb(218, 255, 7);
+}
+carousel{
+    width: 90%px;
+    height: 50%;
+    transition: 5s;
+}
+p2{
+    color: black;
+    background-color: rgb(88, 87, 87);
+}
+
+.lineaL{
+    color: aliceblue;
+    background-color: black;
+}
+.linealL2{
+    color: aliceblue;
+    background-color: black;
+    width: 300px;
+}
+.linealL{
+    color: aliceblue;
+    background-color: black;
+    width: 425;
+}
+.black{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+    background-color: black;
+}
